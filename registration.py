@@ -13,6 +13,8 @@ from booking.make_booking import make_booking
 
 def help_commands():
 
+    #TO DO: REGISTRATION BEFORE EVERYTHING ELSE.
+
     commands =["VIEW_CALENDAR","MAKE_BOOKING","CANCEL_BOOKING","VOLUNTEER","CANCEL_VOLUNTEER" ]
     print(
     """
